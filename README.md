@@ -1,5 +1,7 @@
 # EE201 Line Following Robot
 
+![Robot](docs/robot.jpg)
+
 A line-following robot built using Arduino, a custom sensor array, and PID control. This project was developed for EE 201 and focuses on integrating hardware design, embedded systems, and real-time control.
 
 ## Overview
