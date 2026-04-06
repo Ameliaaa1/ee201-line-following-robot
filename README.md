@@ -16,8 +16,8 @@ This robot detects and follows a black line on a white surface using a photoresi
 - Adjustable parameters using potentiometers
 
 ## Repository Structure
-## Repository Structure
 
+```text
 /firmware/
   /arduino/
     /line_follower_pid/
@@ -36,9 +36,9 @@ This robot detects and follows a black line on a white surface using a photoresi
 /docs/
   final-report.pdf
 
-.gitignore  
+.gitignore
 README.md
-
+```
 ## Hardware Components
 
 - Arduino Mega
