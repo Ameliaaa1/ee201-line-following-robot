@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Arduino temp files
+*.tmp
+*.bak
+
+# KiCad backup files
+*.kicad_prl
+*.kicad_pro-bak
+*.bak
+*-backups/
+_fp-info-cache
+
+# Logs
+*.log
